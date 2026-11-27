@@ -72,7 +72,7 @@ Artist ID,Artist Name,Wikipedia Page,Search Used,Infobox Row,Birthplace/Origin,L
 70,Selena Gomez,https://en.wikipedia.org/wiki/Selena_Gomez,Selena Gomez,Born,"Grand Prairie, Texas, US","Grand Prairie, Texas",32.71528,-96.96611,OK,OK
 71,Ty Dolla $ign,https://en.wikipedia.org/wiki/Ty_Dolla_Sign,Ty Dolla $ign,Born,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,OK,OK
 72,The Beatles,https://en.wikipedia.org/wiki/The_Beatles,The Beatles,Origin,"Liverpool, England",Liverpool,53.4072,-2.9917,OK,OK
-73,Pitbull,https://en.wikipedia.org/wiki/Pitbull_(rapper),Pitbull (singer),Born,"Miami, Florida, U.S.","Miami-Dade County, Florida",25.61058,-80.497099,OK,OK
+73,Pitbull,https://en.wikipedia.org/wiki/Pitbull_(rapper),Pitbull (singer),Born,"Miami, Florida, U.S.",Miami,25.77417,-80.19361,OK,OK
 74,Nicky Jam,https://en.wikipedia.org/wiki/Nicky_Jam,Nicky Jam,Born,"Lawrence, Massachusetts, U.S.","Lawrence, Massachusetts",42.70694,-71.16361,OK,OK
 75,Playboi Carti,https://en.wikipedia.org/wiki/Playboi_Carti,Playboi Carti,Born,"Atlanta, Georgia, US",Atlanta,33.74889,-84.39,OK,OK
 76,Halsey,https://en.wikipedia.org/wiki/Halsey_(singer),Halsey (singer),Born,"Edison, New Jersey, US","Edison, New Jersey",40.5274,-74.3933,OK,OK
@@ -324,7 +324,7 @@ Artist ID,Artist Name,Wikipedia Page,Search Used,Infobox Row,Birthplace/Origin,L
 322,Benson Boone,https://en.wikipedia.org/wiki/Benson_Boone,Benson Boone,Born,"Monroe, Washington, U.S.","Monroe, Washington",47.85778,-121.98833,OK,OK
 323,Dalex,https://en.wikipedia.org/wiki/Dalex,Dalex,Born,"Philadelphia, Pennsylvania, U.S.",Philadelphia,39.9528,-75.1636,OK,OK
 324,Nickelback,https://en.wikipedia.org/wiki/Nickelback,Nickelback,Origin,"Hanna, Alberta, Canada","Hanna, Alberta",51.63833,-111.94194,OK,OK
-325,Marc Anthony,,,,,,,,Artist page not found,Artist page not found
+325,Marc Anthony,https://en.wikipedia.org/wiki/Marc_Anthony,Marc Anthony,Born,"New York City, U.S.",New York City,40.7128,-74.0061,OK,OK
 326,Maná,https://en.wikipedia.org/wiki/Man%C3%A1,Maná,Origin,"Guadalajara, Jalisco, Mexico",Guadalajara,20.67667,-103.3475,OK,OK
 327,Led Zeppelin,https://en.wikipedia.org/wiki/Led_Zeppelin,Led Zeppelin,Origin,"London, England",London,51.50722,-0.1275,OK,OK
 328,Måneskin,https://en.wikipedia.org/wiki/M%C3%A5neskin,Måneskin,Origin,"Rome, Italy",Rome,41.89333,12.48278,OK,OK
