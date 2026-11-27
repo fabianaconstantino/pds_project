@@ -72,7 +72,7 @@ Artist ID,Artist Name,Wikipedia Page,Search Used,Infobox Row,Birthplace/Origin,L
 70,Selena Gomez,https://en.wikipedia.org/wiki/Selena_Gomez,Selena Gomez,Born,"Grand Prairie, Texas, US","Grand Prairie, Texas",32.71528,-96.96611,OK,OK
 71,Ty Dolla $ign,https://en.wikipedia.org/wiki/Ty_Dolla_Sign,Ty Dolla $ign,Born,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,OK,OK
 72,The Beatles,https://en.wikipedia.org/wiki/The_Beatles,The Beatles,Origin,"Liverpool, England",Liverpool,53.4072,-2.9917,OK,OK
-73,Pitbull,https://en.wikipedia.org/wiki/Pitbull_(rapper),Pitbull (singer),Born,"Miami, Florida, U.S.",Miami,25.77417,-80.19361,OK,OK
+73,Pitbull,https://en.wikipedia.org/wiki/Pitbull_(rapper),Pitbull (singer),Born,"Miami, Florida, U.S.","Miami-Dade County, Florida",25.61058,-80.497099,OK,OK
 74,Nicky Jam,https://en.wikipedia.org/wiki/Nicky_Jam,Nicky Jam,Born,"Lawrence, Massachusetts, U.S.","Lawrence, Massachusetts",42.70694,-71.16361,OK,OK
 75,Playboi Carti,https://en.wikipedia.org/wiki/Playboi_Carti,Playboi Carti,Born,"Atlanta, Georgia, US",Atlanta,33.74889,-84.39,OK,OK
 76,Halsey,https://en.wikipedia.org/wiki/Halsey_(singer),Halsey (singer),Born,"Edison, New Jersey, US","Edison, New Jersey",40.5274,-74.3933,OK,OK
@@ -482,7 +482,7 @@ Artist ID,Artist Name,Wikipedia Page,Search Used,Infobox Row,Birthplace/Origin,L
 480,Grupo Menos É Mais,https://en.wikipedia.org/wiki/Menos_%C3%89_Mais,Grupo Menos É Mais,Origin,"Gama, Federal District, Brazil","Gama, Federal District",-16.01944,-48.06694,OK,OK
 481,Nicki Nicole,https://en.wikipedia.org/wiki/Nicki_Nicole,Nicki Nicole,Born,"Rosario, Santa Fe, Argentina",Rosario,-32.9575,-60.63944,OK,OK
 482,Moneybagg Yo,https://en.wikipedia.org/wiki/Moneybagg_Yo,Moneybagg Yo,Born,"Memphis, Tennessee, U.S.","Memphis, Tennessee",35.14611,-90.05194,OK,OK
-483,Magenta,https://en.wikipedia.org/wiki/Magenta_(Welsh_band),Magenta (musician),Origin,"Wales, UK",,,,Wrong match,OK
+483,Magenta,,,,,,,,Artist page not found,Artist page not found
 484,Ryan Lewis,https://en.wikipedia.org/wiki/Ryan_Lewis,Ryan Lewis,Born,"Spokane, Washington, U.S.","Spokane, Washington",47.65889,-117.425,OK,OK
 485,Morad,https://en.wikipedia.org/wiki/Morad_(rapper),Morad (rapper),Born,"L'Hospitalet de Llobregat, Catalonia, Spain",L'Hospitalet de Llobregat,41.35972,2.1,OK,OK
 486,Calum Scott,https://en.wikipedia.org/wiki/Calum_Scott,Calum Scott,Born,"Beverley, East Riding of Yorkshire, England",Beverley,53.84361,-0.43,OK,OK
